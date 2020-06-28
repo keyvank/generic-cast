@@ -2,6 +2,11 @@
 name = "generic-cast"
 version = "0.1.0"
 authors = ["Keyvan Kambakhsh <keyvankambakhsh@gmail.com>"]
+description = "Cast generic type-parameters to types"
+documentation = "https://docs.rs/generic-cast"
 edition = "2018"
+homepage = "https://github.com/keyvank/generic-cast"
+license = "MIT/Apache-2.0"
+repository = "https://github.com/keyvank/generic-cast"
 
 [dependencies]
